@@ -1,3 +1,3 @@
 (function() {
-  alert('bookmarklet starting');
+  console.log('bookmarklet starting');
 })();
